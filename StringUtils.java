@@ -1,2 +1,1 @@
-This function contain string lines
-
+This string files are very imp
